@@ -104,6 +104,40 @@ nav.navbar-transparente{
 	padding-left: 80px;
 }
 
+/* ------- Rodapé ------- */
+footer{
+
+	background: #000;
+	padding-top: 50px;
+	padding-bottom: 20px;
+	position: relative;
+}
+
+footer h4{
+	color: #919496;
+	font-size: 0.8em;
+	text-transform: uppercase;
+}
+
+footer .navbar-nav a{
+	color: white;
+	font-size: 0.8em;
+}
+
+footer .navbar-nav a:hover {
+	color: #9bf0e1;
+	text-decoration: none;
+}
+
+footer ul {
+	list-style: none;
+}
+
+footer ul li {
+	float: right;
+	margin: 0px 10px;
+}
+
 /* ------- Tipografia ------- */
 h1{
 	font-weight: 900;
@@ -130,6 +164,7 @@ h3{
 	.btn-custom{
 
 	margin: 10px 15px;
+	font-size: 1em;
 
 }
 
