@@ -15,7 +15,7 @@
   <tr>
     <td> HTML5 </td>
     <td> CSS3 </td>
-    <td>Bootsrap 4</td>
+    <td>Bootstrap 4</td>
   </tr>
 </table>
 
